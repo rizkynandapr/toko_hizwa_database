@@ -33,14 +33,15 @@
 
 ---
 
-##Lisensi
+## Lisensi
 
 Skrip database ini bebas digunakan untuk keperluan edukasi, riset, dan pengembangan internal. Mohon cantumkan atribusi jika di-*publish* ulang.
 
 ---
 
-** Created by rizkynandapr**  
+## Created by rizkynandapr 
 [GitHub](https://github.com/rizkynandapr)
+
 
 
 
